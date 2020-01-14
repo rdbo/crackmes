@@ -1,8 +1,9 @@
 #Crackme Info
-#Name: keyGme
-#URL: https://crackmes.one/crackme/5c268e8333c5d41e58e00654
-#Author: rion
+#Name: glow wine [keygen practice]
+#URL: https://crackmes.one/crackme/5df26b4033c5d419aa013362
+#Author: Bkamp
 #Language: C/C++
+#Platform: Unix/linux etc.
 #Level: 1
 #------------------
 #Length: 5
