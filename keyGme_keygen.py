@@ -1,3 +1,10 @@
+#Crackme Info
+#Name: keyGme
+#URL: https://crackmes.one/crackme/5c268e8333c5d41e58e00654
+#Author: rion
+#Language: C/C++
+#Level: 1
+#------------------
 #Size == 16
 #Characters >= 'A' and <= 'Z'
 #Characters >= '0' and <= '9'
