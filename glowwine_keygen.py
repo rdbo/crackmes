@@ -1,3 +1,10 @@
+#Crackme Info
+#Name: keyGme
+#URL: https://crackmes.one/crackme/5c268e8333c5d41e58e00654
+#Author: rion
+#Language: C/C++
+#Level: 1
+#------------------
 #Length: 5
 #Second Char Hex: 64 = '@'
 #argv[1][4] + argv[1][3] + argv[1][2] = 300
