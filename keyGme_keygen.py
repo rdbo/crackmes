@@ -2,6 +2,7 @@
 #Name: keyGme
 #URL: https://crackmes.one/crackme/5c268e8333c5d41e58e00654
 #Author: rion
+#Platform: Unix/linux etc.
 #Language: C/C++
 #Level: 1
 #------------------
