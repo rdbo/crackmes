@@ -22,6 +22,6 @@ def keygen(name):
 	ssum = shift2 + length
 	return ("%d-%d" %(ssum, charsum))
 
-name = "rdbo"
-print("Name: " + name)
-print("License: " + keygen(name))
+license_name = "rdbo"
+print("Name: " + license_name)
+print("License: " + keygen(license_name))
