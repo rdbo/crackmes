@@ -21,4 +21,4 @@ def keygen(name):
 
 name = "rdbo"
 print(f"Name: {name}")
-print(f"Serial: {keygen(name)}")
+print(f"Key: {keygen(name)}")
