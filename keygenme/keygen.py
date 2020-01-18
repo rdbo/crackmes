@@ -1,3 +1,11 @@
+#Crackme Info
+#Name: keygenme
+#URL: https://crackmes.one/crackme/5d24585133c5d410dc4d0cbd
+#Author: kawaii-flesh
+#Language: C/C++
+#Platform: Unix/linux etc.
+#Level: 2
+#------------------
 import string
 import locale
 cmdline = "./keygenme"
