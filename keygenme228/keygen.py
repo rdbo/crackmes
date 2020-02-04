@@ -1,9 +1,9 @@
 #Crackme Info
-#Name: OldSoft's KeyGenMe #2 -- Upgraded from DOS
+#Name: keygenme228 by profdraculare
 #URL: https://crackmes.one/crackme/5c9e187b33c5d4419da55648
-#Author: wolverine2k
+#Author: crackmes.de
 #Language: C/C++
-#Platform: Windows
+#Platform: Unix/linux etc.
 #Level: 1
 #------------------
 #Min serial length: 3
