@@ -5,10 +5,12 @@
 #Language: C/C++
 #Platform: Windows
 #Level: 2
--------------------------------------
+-----------------------------------------
 Password: hellocracker
-Method: Dynamic analysis @strcmp (
------------------------------------
+Method: Dynamic analysis @strcmp
+-------------OUTPUT----------------------
+::: Congratulations! :::
 KEY: SEVSRSwgVEhJUyBJUyBZT1VSIEtFWSA6IFEyOXVaM0poZEhWc1lYUnBiMjV6SVE
+-------------DECODE----------------------
 base64: HERE, THIS IS YOUR KEY : Q29uZ3JhdHVsYXRpb25zIQ
 base64: Congratulations!
