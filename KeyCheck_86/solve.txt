@@ -1,0 +1,14 @@
+#Crackme Info
+#Name: KeyCheck_86
+#URL: https://crackmes.one/crackme/5e5b9aaa33c5d4439bb2dd17
+#Author: anoxtovo
+#Language: C/C++
+#Platform: Windows
+#Level: 2
+-------------------------------------
+Password: hellocracker
+Method: Dynamic analysis @strcmp (
+-----------------------------------
+KEY: SEVSRSwgVEhJUyBJUyBZT1VSIEtFWSA6IFEyOXVaM0poZEhWc1lYUnBiMjV6SVE
+base64: HERE, THIS IS YOUR KEY : Q29uZ3JhdHVsYXRpb25zIQ
+base64: Congratulations!
