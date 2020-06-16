@@ -1,0 +1,8 @@
+#Crackme Info
+#Name: racecars
+#URL: https://crackmes.one/crackme/5e76c37d33c5d4439bb2df1b
+#Author: chillywilly
+#Language: C/C++
+#Platform: Unix/linux, etc.
+#Level: 2
+#------------------
