@@ -1,0 +1,8 @@
+#Crackme Info
+#Name: login-cipher
+#Author: Silva97
+#Language: C/C++
+#Platform: Unix/linux, etc.
+#Level: 3
+#URL: https://crackmes.one/crackme/5db0ef9f33c5d46f00e2c729
+#------------------
