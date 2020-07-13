@@ -1,0 +1,3 @@
+The program reads each character of the file passed on argv[0] and pass them through an algorythm.
+After that, it adds '0' to each byte read through the algorythm and the result has to be "01234567890123456789012345"
+Run "./ZED-Frequency keyfile.txt" to check the results

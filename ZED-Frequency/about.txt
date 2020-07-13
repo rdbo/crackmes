@@ -1,0 +1,8 @@
+#Crackme Info
+#Name: ZED-Frequency
+#Author: zed-zahir
+#Language: C/C++
+#Platform: Unix/linux, etc.
+#Level: 3
+#URL: https://crackmes.one/crackme/5ed17e1633c5d449d91ae68e
+#------------------
